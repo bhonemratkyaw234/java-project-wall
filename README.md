@@ -1,2 +1,9 @@
---Bhone Myat create by this readme.md
-**/Bhone Myat /**
+java-project-wall/
+├── src/
+│   ├── main/
+│   │   └── java/
+│   │       └── com/
+│   │           └── yourpackage/
+│   │               └── Main.java
+├── .gitignore
+└── README.md
